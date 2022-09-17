@@ -1,0 +1,5 @@
+1|Apple|사과
+2|pole|장대
+3|pig|돼지
+2|sticker|스티커
+3|sneakers|운동화
