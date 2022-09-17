@@ -28,14 +28,22 @@ public class WordManager {
 	}
 	
 	public void start() {
+		
+		wordCRUD.loadFile();
 		while (true) {
 			int menu = selectMenu();
 			if(menu ==0) {System.out.print("프로그램 종료! 다음에 만나요~"); break;}
 			if(menu ==4) {
-				wordCRUD.addWord();
+				wordCRUD.addItem();
 			}
-			else if(menu ==1) {
+			else if	(menu ==1) {
 				wordCRUD.listAll();
+			}
+			else if (menu ==5) { // 추가
+				wordCRUD.updateItem();
+			}
+			else if (menu ==6) { // 삭제
+				wordCRUD.deleteItem();
 			}
 		}
 		
