@@ -23,4 +23,4 @@
 
 ## Menu == 7
 <img src = "https://github.com/Cocomong98/wordMaster/blob/main/screenshot/Menu_7.png?raw=true"> 
-<img src = "https://github.com/Cocomong98/wordMaster/blob/main/screenshot/Menu_7-1.png?raw=true"> 
+<img src = "https://github.com/Cocomong98/wordMaster/blob/main/screenshot/Menu_7-2.png?raw=true"> 
